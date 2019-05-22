@@ -16,4 +16,17 @@ $(document).ready(function(){
         $('#btn-prof').fadeIn();
         
     })
+    
+    $('#btn-primero').click(function(){
+        $('#fondo1').hide();
+    })
+    $('#btn-segundo').click(function(){
+        $('#fondo1').hide();
+    })
+    $('#btn-tercero').click(function(){
+        $('#fondo1').hide();
+    })
+    $('#btn-prof').click(function(){
+        $('#fondo1').hide();
+    })
 });
