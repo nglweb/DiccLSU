@@ -83,6 +83,12 @@ font-family: 'Fjalla One', sans-serif;
     color: white;
     
 }
+.sel-mod{
+    width: 100%;
+    background: transparent;
+    color: black;
+    font-family: 'Fjalla One', sans-serif;
+}
 /*PRIMERO*/
 #primero .card-body:hover{
     background: linear-gradient(120deg,#E91E63,#AD1457);
